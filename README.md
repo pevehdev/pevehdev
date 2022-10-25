@@ -1,11 +1,13 @@
 
-# Olá! Eu sou o Paulo!✌
+### Olá! Eu sou o Paulo!✌
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-da-silva-rodrigues-920b3a252/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/pevehdev)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srpaulovictor@outlook.com)
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pevehdev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pevehdev&layout=compact&langs_count=7&theme=radical)](https://github.com/pevehdev/github-readme-stats)
+
 
 ## Tecnologias que estou utilizando:
 
