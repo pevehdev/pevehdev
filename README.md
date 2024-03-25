@@ -27,4 +27,4 @@
 <br>
 <hr>
 
-## Aprendendo a aprender. Formado em Ciencia da Computação e estudante de programação, conhecimentos em diversas tecnologias e hoje fazendo curso técnico voltado para desenvolvimento Full-Stack + Soft Skills pelo Senac.
+## Formado em Ciencia da Computação e estudante de programação, conhecimentos em diversas tecnologias. Participei do primeiro projeto Programadores Cariocas. Atualmente estou na segunda edição estudando Análise de dados com Python.
