@@ -1,7 +1,7 @@
 
-# Olá! Eu sou o Paulo!✌
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-da-silva-rodrigues-920b3a252/)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=PauloVictor%20&fontAlignY=40&color=gradient)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Victor;Tenho+30+anos;Sou+do+Rio+de+Janeiro;Sonho+em+ser+Analista+de+Dados;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pevehdev/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/pevehdev)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srpaulovictor@outlook.com)
 
@@ -27,4 +27,19 @@
 <br>
 <hr>
 
-## Formado em Ciencia da Computação e estudante de programação, conhecimentos em diversas tecnologias. Participei do primeiro projeto Programadores Cariocas. Atualmente estou na segunda edição estudando Análise de dados com Python.
+<div  align=left>
+  
+
+<details> 
+ <summary> <h2>Ultimos Projetos</h2> </summary>
+
+
+## [Adote Aqui](https://pevehdev.github.io/Adote-Aqui/) 
+
+<!-- Este é outro comentário oculto dentro de uma seção expansível. -->
+
+</details>
+
+</div>
+
+<!--## Formado em Ciencia da Computação e estudante de programação, conhecimentos em diversas tecnologias. Participei do primeiro projeto Programadores Cariocas. Atualmente estou na segunda edição estudando Análise de dados com Python. -->
