@@ -32,8 +32,9 @@
 
 <details> 
  <summary> <h2>Ultimos Projetos</h2> </summary>
-
-
+  
+## [Resilia Data](https://resiliadata-online2.onrender.com/) <br>
+## [Hamburgueria One](https://thunderous-stroopwafel-dabb6d.netlify.app/) <br>
 ## [Adote Aqui](https://pevehdev.github.io/Adote-Aqui/) 
 
 <!-- Este é outro comentário oculto dentro de uma seção expansível. -->
