@@ -34,6 +34,7 @@
 <details> 
  <summary> <h2>Ultimos Projetos</h2> </summary>
   
+## [Análise Criptomoedas](https://github.com/pevehdev/Analise-Criptomoedas)<br>
 ## [Resilia Data](https://resiliadata-online2.onrender.com/) <br>
 ## [Hamburgueria One](https://thunderous-stroopwafel-dabb6d.netlify.app/) <br>
 ## [Adote Aqui](https://pevehdev.github.io/Adote-Aqui/) 
