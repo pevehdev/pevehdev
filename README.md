@@ -23,6 +23,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div> 
+<div ><img style="width: 250px" align="right" alt="Aomine" src="https://i.imgur.com/p7v3u9X.gif"></div>
 <br>
 <br>
 <hr>
