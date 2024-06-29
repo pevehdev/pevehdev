@@ -1,6 +1,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=PauloVictor%20&fontAlignY=40&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Victor;Tenho+30+anos;Sou+do+Rio+de+Janeiro;Sonho+em+ser+Analista+de+Dados;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Victor;Sou+do+Rio+de+Janeiro;Futuro+Analista+de+Dados;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pevehdev/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/pevehdev)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srpaulovictor@outlook.com)
